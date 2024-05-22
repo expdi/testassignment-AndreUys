@@ -5,3 +5,6 @@ Just some testing going on here.
 Making changes from the IDE
 
 Edit usig IntelliJ....
+
+
+Edit in git ide
